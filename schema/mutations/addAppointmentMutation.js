@@ -225,7 +225,7 @@ const addAppointmentMutation = {
             phoneNumber: args.client[0].phoneNumber,
           },
       treatments: args.treatments,
-      addOns: args.addOns === [] ? null : args.addOns,
+      addOns: args.addOns.length === 0 ? null : args.addOns,
       notes: args.notes === "" ? null : args.notes,
       confirmed: false,
     });
