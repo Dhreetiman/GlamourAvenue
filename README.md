@@ -12,7 +12,6 @@
     <br />
     <br />
     <a href="https://glamour-avenue.vercel.app">View Demo</a>
-     
     <a href="https://github.com/Dhreetiman/GlamourAvenue/issues">Report Issue</a> 
   </p>
 </p>
