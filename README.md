@@ -8,7 +8,7 @@
   <h3 align="center">Glamour Avenue Facial Bar - CRUD Application</h3>
 
   <p align="center">
-    MERN stack appointment scheduling and employee/client management application
+    MERN stack appointment scheduling and employee/client management application.
     <br />
     <br />
     <a href="https://glamour-avenue.vercel.app">View Demo</a>
